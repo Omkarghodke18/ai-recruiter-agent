@@ -12,7 +12,7 @@ st.title("🤖 AI Recruitment Agent")
 jd = st.text_area("📄 Enter Job Description")
 
 if st.button("🔍 Find Candidates"):
-    df = pd.read_csv("D:\Recruitment_Agent\candidates.csv")
+    df = pd.read_csv("candidates.csv")
 
     parsed = parse_jd(jd)
     jd_skills = parsed["skills"]
