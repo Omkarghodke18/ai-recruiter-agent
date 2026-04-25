@@ -1,0 +1,57 @@
+name,skills,experience,location,current_role
+Rahul,Python SQL Snowflake AWS,3,Pune,Data Engineer
+Priya,Python ML TensorFlow NLP,2,Mumbai,ML Engineer
+Amit,SQL PowerBI Excel ETL,4,Bangalore,BI Developer
+Neha,Python SQL Snowflake Airflow,5,Delhi,Data Engineer
+name,skills,experience,location,current_role
+Rahul,Python SQL Snowflake AWS,3,Pune,Data Engineer
+Priya,Python ML TensorFlow NLP,2,Mumbai,ML Engineer
+Amit,SQL PowerBI Excel ETL,4,Bangalore,BI Developer
+Neha,Python SQL Snowflake Airflow,5,Delhi,Data Engineer
+Arjun,Python SQL AWS Airflow Spark,4,Hyderabad,Data Engineer
+Sneha,Python Tableau SQL Excel,3,Pune,Data Analyst
+Karan,Java Spring Boot Microservices AWS,5,Bangalore,Backend Developer
+Pooja,Python SQL Snowflake DBT Airflow,6,Mumbai,Senior Data Engineer
+Rohit,Python Pandas NumPy MachineLearning,2,Delhi,Data Analyst
+Anjali,SQL PowerBI Tableau DataVisualization,3,Chennai,BI Analyst
+Vikas,Python SQL Spark Hadoop AWS,5,Hyderabad,Big Data Engineer
+Meena,Python NLP DeepLearning TensorFlow,4,Bangalore,ML Engineer
+Suresh,SQL Excel Reporting ETL,3,Pune,Reporting Analyst
+Divya,Python SQL Snowflake AWS Airflow,4,Gurgaon,Data Engineer
+Nikhil,Python Flask API Development AWS,3,Mumbai,Software Engineer
+name,skills,experience,location,current_role
+Rahul,Python SQL Snowflake AWS,3,Pune,Data Engineer
+Priya,Python ML TensorFlow NLP,2,Mumbai,ML Engineer
+Amit,SQL PowerBI Excel ETL,4,Bangalore,BI Developer
+Neha,Python SQL Snowflake Airflow,5,Delhi,Data Engineer
+Arjun,Python SQL AWS Airflow Spark,4,Hyderabad,Data Engineer
+Sneha,Python Tableau SQL Excel,3,Pune,Data Analyst
+Karan,Java Spring Boot Microservices AWS,5,Bangalore,Backend Developer
+Pooja,Python SQL Snowflake DBT Airflow,6,Mumbai,Senior Data Engineer
+Rohit,Python Pandas NumPy MachineLearning,2,Delhi,Data Analyst
+Anjali,SQL PowerBI Tableau DataVisualization,3,Chennai,BI Analyst
+Vikas,Python SQL Spark Hadoop AWS,5,Hyderabad,Big Data Engineer
+Meena,Python NLP DeepLearning TensorFlow,4,Bangalore,ML Engineer
+Suresh,SQL Excel Reporting ETL,3,Pune,Reporting Analyst
+Divya,Python SQL Snowflake AWS Airflow,4,Gurgaon,Data Engineer
+Nikhil,Python Flask API Development AWS,3,Mumbai,Software Engineer
+Aakash,Python LangChain OpenAI LLM NLP,3,Bangalore,GenAI Engineer
+Riya,Python HuggingFace Transformers NLP DeepLearning,4,Hyderabad,AI Engineer
+Manish,Python FastAPI React MongoDB,3,Pune,Full Stack Developer
+Tina,JavaScript React NodeJS Express MongoDB,2,Mumbai,Full Stack Developer
+Varun,Python Docker Kubernetes AWS Terraform,5,Delhi,Cloud Engineer
+Komal,Azure DataFactory SQL Python ETL,4,Chennai,Cloud Data Engineer
+Deepak,Python PyTorch ComputerVision OpenCV,3,Bangalore,AI Engineer
+Isha,Python LangChain OpenAI PromptEngineering,2,Pune,GenAI Engineer
+Ramesh,Java Spring Boot REST API Microservices,6,Hyderabad,Backend Developer
+Payal,React Redux JavaScript HTML CSS,3,Mumbai,Frontend Developer
+Gaurav,Python SQL DBT Snowflake Airflow,5,Gurgaon,Analytics Engineer
+Shreya,Python ScikitLearn ML ModelDeployment,3,Delhi,ML Engineer
+Ankit,NodeJS Express MongoDB REST API,4,Bangalore,Backend Developer
+Bhavna,Python AWS Lambda S3 Glue Athena,4,Hyderabad,Cloud Engineer
+Yash,Python LangChain VectorDB Pinecone OpenAI,3,Pune,GenAI Engineer
+Kriti,Python Tableau PowerBI SQL DataViz,2,Chennai,Data Analyst
+Harsh,JavaScript NextJS React NodeJS,3,Delhi,Full Stack Developer
+Sanjay,Python Airflow Spark Hadoop AWS,6,Bangalore,Big Data Engineer
+Neeraj,Python FastAPI Microservices Docker,4,Mumbai,Backend Engineer
+Alok,Python OpenAI LangChain RAG LLM,3,Gurgaon,GenAI Engineer
