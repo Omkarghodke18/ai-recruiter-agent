@@ -1,6 +1,8 @@
 # ai-recruiter-agent
 AI agent for candidate matching and ranking
 
+NOTE:- If deployed App/Prototype goes to sleep due to inacitvity please Click on " Bring Back This APP " Button
+
 # 🤖 AI Recruitment Agent
 
 ## 🚀 Overview
@@ -36,7 +38,3 @@ Final Score = 0.7 * Match Score + 0.3 * Interest Score
 🏗️ Architecture
 
 JD → Parser → Matcher → Conversation → Scoring → Output
-
-🎥 Demo
-
-(Add your Loom or screen recording link here)
